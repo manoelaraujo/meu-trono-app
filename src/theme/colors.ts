@@ -1,0 +1,22 @@
+export const colors = {
+  background: '#f7fafc',
+  surface: '#f7fafc',
+  surfaceLow: '#f1f4f6',
+  surfaceContainer: '#ebeef0',
+  surfaceHigh: '#e5e9eb',
+  surfaceHighest: '#e0e3e5',
+  surfaceLowest: '#ffffff',
+  primary: '#005e9a',
+  primaryContainer: '#0077c2',
+  primaryFixed: '#d0e4ff',
+  onPrimary: '#ffffff',
+  onSurface: '#181c1e',
+  onSurfaceVariant: '#404751',
+  outline: '#707882',
+  outlineVariant: '#c0c7d3',
+  tertiary: '#795300',
+  tertiaryFixed: '#ffdeac',
+  error: '#ba1a1a',
+  onError: '#ffffff',
+};
+
